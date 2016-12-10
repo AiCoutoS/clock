@@ -1,5 +1,5 @@
 # clock
 :clock4: Relógio simples em JavaScript puro
 
-# Preview
+## Preview
 ![shot](clock.png)
