@@ -1,4 +1,5 @@
-function getdate(){
+function getdate()
+{
   var today = new Date();
   var dia = today.getDate();
   var diaDa = today.getDay();
